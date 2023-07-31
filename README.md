@@ -1,2 +1,2 @@
 # SwiftUI
-Repo containing SwiftUI topics and practice
+SwiftUI topics and code examples along with comparable UIKit examples
